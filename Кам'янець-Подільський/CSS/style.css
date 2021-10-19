@@ -26,6 +26,7 @@
     color: rgb(99, 85, 177);
     font-weight: 1000;
     text-shadow: 3px 3px 6px black;
+    /*Галерея флекс*/
 }
 .content__h2{
     padding: 10px;
@@ -101,6 +102,7 @@
     color: rgb(10, 100, 58);
     font-weight: normal;
     text-shadow: 2px 2px 3px black;
+    /*Герб*/
 }
 .border__photo_hz{
     display: flex;
@@ -120,16 +122,79 @@
     text-shadow: 3px 2px 3px black;
 }
 .content__h3{
-    display: block;
+    border: 1px solid black;
 }
 .h3__text{
     display: flex;
     justify-content: center;
-    flex-grow: initial
+    align-items: baseline;
 }
 .text__h3{
-    
+    padding: 25px;
+    font-size: 30px;
+    color: rgb(61, 61, 199);
+    text-shadow: 1px 1px 1px black;
+    justify-content: center;
 }
 .h3{
-    
+   padding: 25px;
+   font-size: 20px;
+   font-weight: 700;
+}
+/*Пам'ятки архітектури*/
+.content__h4{
+    display: grid;
+}
+.h4{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-rows: ;
+}
+.gallery__f1{
+    display: grid;
+    padding: 15px;
+    justify-content: center
+}
+.h4__f1{
+    font-size: 30px;
+    color: blue;
+}
+.img__f1{
+    height: 200px;
+}
+.gallery__f2{
+    padding: 15px;
+}
+.img__f2{
+    height: 200px;
+}
+.gallery__f3{
+    padding: 15px;
+}
+.img__f3{
+    height: 200px;
+}
+.gallery__f4{
+    padding: 15px;
+}
+.img__f4{
+    height: 200px;
+}
+.gallery__f5{
+    padding: 15px;
+}
+.img__f5{
+    height: 200px;
+}
+.gallery__f6{
+    padding: 15px;
+}
+.img__f6{
+    height: 200px;
+}
+.gallery__f7{
+    padding: 15px;
+}
+.img__f7{
+    height: 200px;
 }
