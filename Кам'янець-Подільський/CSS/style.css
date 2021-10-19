@@ -82,3 +82,54 @@
     height: 170px;
     width: 250px;
 }
+.content__z{
+    display: flex;
+    flex-direction: column;
+    background-color: blanchedalmond;
+}
+.border__hz{
+    display: flex;
+    border: 1px solid black;
+    height: 70px;
+    justify-content: end;
+    align-items: center;
+    padding: 0px 20px 0px 0px
+}
+.hz__text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgb(10, 100, 58);
+    font-weight: normal;
+    text-shadow: 2px 2px 3px black;
+}
+.border__photo_hz{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+.photo__hz{
+    height: 200px;
+}
+.text_z{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    color: rgb(61, 61, 199);
+    font-weight: 900;
+    text-shadow: 3px 2px 3px black;
+}
+.content__h3{
+    display: block;
+}
+.h3__text{
+    display: flex;
+    justify-content: center;
+    flex-grow: initial
+}
+.text__h3{
+    
+}
+.h3{
+    
+}
