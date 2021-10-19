@@ -1,0 +1,84 @@
+
+
+
+
+
+.body{
+    padding: 30px;
+}
+.main{
+    border: 10px solid rgb(35, 76, 138);
+}
+.content__h1{
+    background-color: rgb(217, 231, 235);
+}
+.h1{
+    display: flex;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.h1__text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 43px;
+    color: rgb(99, 85, 177);
+    font-weight: 1000;
+    text-shadow: 3px 3px 6px black;
+}
+.content__h2{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(10, 100, 58);
+}
+.f1{
+    height: 170px;
+    width: 250px;
+}
+.f2{
+    height: 170px;
+    width: 250px;
+}
+.f3{
+    height: 170px;
+    width: 250px;
+}
+.f4{
+    height: 170px;
+    width: 250px;
+}
+.f5{
+    height: 170px;
+    width: 250px;
+}
+.f6{
+    height: 170px;
+    width: 250px;
+}
+.f7{
+    height: 170px;
+    width: 250px;
+}
+.f8{
+    height: 170px;
+    width: 250px;
+}
+.f9{
+    height: 170px;
+    width: 250px;
+}
+.f10{
+    height: 170px;
+    width: 250px;
+}
+.f11{
+    height: 170px;
+    width: 250px;
+}
+.f12{
+    height: 170px;
+    width: 250px;
+}
