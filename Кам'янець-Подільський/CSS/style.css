@@ -148,19 +148,36 @@
 .h4{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-template-rows: ;
 }
 .gallery__f1{
+    border: 5px solid rgb(178, 213, 216);
     display: grid;
     padding: 15px;
-    justify-content: center
+    width: auto;
+    justify-content: center;
+}
+.f1_h4{
+    display: grid;
+    border: 3px solid rgb(118, 175, 168);
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px black;
+    width: auto;
+    height: 80px;
+    justify-content: center;
 }
 .h4__f1{
-    font-size: 30px;
+    font-size: 35px;
     color: blue;
+    margin: auto;
+}
+.i__f1{
+    display: grid;
+    justify-content: center;
+    padding: 10px;
 }
 .img__f1{
     height: 200px;
+    margin: auto;
 }
 .gallery__f2{
     padding: 15px;
