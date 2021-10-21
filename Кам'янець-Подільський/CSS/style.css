@@ -327,11 +327,10 @@
     border: 3px solid rgb(118, 175, 168);
     border-radius: 15px;
     box-shadow: 2px 2px 2px black;
-    width: auto;
-    height: 80px;
+    height: 100px;
     justify-content: center;
     text-align: center;
-    margin: auto;
+    width: auto;
 }
 .h4__f6{
     font-size: 35px;
@@ -360,10 +359,9 @@
     border: 3px solid rgb(118, 175, 168);
     border-radius: 15px;
     box-shadow: 2px 2px 2px black;
-    width: auto;
     height: 100px;
-    justify-content: center;
-    text-align: center; 
+    width: auto;
+    text-align: center;
 }
 .h4__f7{
     font-size: 30px;
