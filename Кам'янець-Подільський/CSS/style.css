@@ -360,8 +360,9 @@
     border-radius: 15px;
     box-shadow: 2px 2px 2px black;
     height: 100px;
-    width: auto;
     text-align: center;
+    justify-content: center;
+    width: auto;
 }
 .h4__f7{
     font-size: 30px;
@@ -374,6 +375,17 @@
     padding: 10px;  
 }
 .img__f7{
+    height: 200px;
+    margin: auto;
+}
+.gallery__f8{
+    border: 5px solid rgb(178, 213, 216);
+    display: grid;
+    padding: 15px;
+    width: auto;
+    justify-content: center;
+}
+.img__f8{
     height: 200px;
     margin: auto;
 }
