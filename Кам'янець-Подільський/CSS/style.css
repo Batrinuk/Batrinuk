@@ -18,7 +18,7 @@
 }
 .h1{
     display: flex;
-    border: 2px solid black;
+    border: 5px solid rgb(20, 10, 104);
     justify-content: center;
     align-items: center;
     height: 170px;
@@ -39,7 +39,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(10, 100, 58);
+    background-color: rgb(135, 206, 173);
 }
 .f1{
     height: 170px;
@@ -351,8 +351,8 @@
     border: 5px solid rgb(178, 213, 216);
     display: grid;
     padding: 15px;
-    width: auto;
     justify-content: center;
+    width: auto;
 }
 .f7__h4{
     display: grid;
@@ -360,9 +360,8 @@
     border-radius: 15px;
     box-shadow: 2px 2px 2px black;
     height: 100px;
-    text-align: center;
-    justify-content: center;
     width: auto;
+    text-align: center;
 }
 .h4__f7{
     font-size: 30px;
@@ -388,6 +387,7 @@
 .img__f8{
     height: 200px;
     margin: auto;
+    /*Футер*/
 }
 .footer{
     display: grid;
